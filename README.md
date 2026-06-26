@@ -103,3 +103,6 @@ prompt-engineering-for-testing/
 | Automation Testing   | Available |
 
 ---
+## Author
+
+Ananta Taksale - IT Professional with experience in QA, Business Analysis, AI, Card and Payment domain
